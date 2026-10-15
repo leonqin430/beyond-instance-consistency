@@ -14,6 +14,7 @@ Huaiyuan Qin<sup>1</sup>&nbsp;&nbsp; Muli Yang<sup>1</sup>&nbsp;&nbsp; Siyuan Hu
 
 [![arXiv](https://img.shields.io/badge/arXiv-2509.11344-b31b1b.svg)](https://arxiv.org/abs/2509.11344)
 [![Paper](https://img.shields.io/badge/Paper-PDF-orange.svg)](https://arxiv.org/pdf/2509.11344)
+[![Project Page](https://img.shields.io/badge/Project-Page-1f6feb.svg)](https://leonqin430.github.io/projects/beyond-instance-consistency/)
 [![OpenReview](https://img.shields.io/badge/TMLR-OpenReview-8c1b13.svg)](https://openreview.net/forum?id=urWCU3YMA0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
